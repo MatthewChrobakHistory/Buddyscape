@@ -1,0 +1,13 @@
+Pre-Barrows quests for Recipe for Disaster
+
+Chef says he's planning a party and needs you to invite some specific guests.
+
+	Chompy Bird Hunting
+
+	[GOBLINS] -> Bowl of Mush -> Soggy Bread, Fishing bait
+		-Goblin Diplomacy (NEED TO WRITE)
+	[DWARF] -> Rock Cake -> Iron Ore, Cake
+		-Fishing Contest
+	Monkey Madness
+		- The Grand Tree
+	[EVIL DAVE] -> Evil Stew -> Spice, Stew

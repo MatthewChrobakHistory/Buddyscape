@@ -1,0 +1,44 @@
+Bronze
+Iron
+Steel
+Black
+Mithril
+Adamant
+Rune
+Dragon
+Barrows
+	STR - DH
+	MP - Verac
+	DEF - Torrag
+	HP - Guthan
+Bandos
+Vesta DEF
+Statius STR
+Torva
+
+3rd age
+
+
+Wizard Robes
+Imp Robes
+Combat Robes
+Drudic Robes
+Battle Robes
+Mystic Robes
+Infinity Robes
+Demonic Robes
+Barrows
+	Magic - Ahrim
+Zuriels
+Robes of Subjection
+Virtus
+
+
+Soft Leather
+Hard Leather
+Snakeskin
+Yakhide
+Green D'Hide
+Blue D'Hide
+Red D'Hide
+Black D'Hide

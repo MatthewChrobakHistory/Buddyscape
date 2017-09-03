@@ -1,0 +1,14 @@
+In Pyre Need
+
+Location: Home
+
+	A Guthix Monk tells you of a pheonix that is near the end of its life. To be reborn, it needs to die. Can you kill the pheonix to grant it the gift of a new life?
+
+-requires
+	- Combat XP
+
+	Find the Pheonix Cave and kill the pheonix.
+
+REWARDS
+
+	- Combat XP

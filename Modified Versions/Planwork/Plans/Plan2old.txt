@@ -1,0 +1,48 @@
+Barrows Equipment
+Release 6 Quests[
+		Clock Tower
+		Demon Slayer
+		Doric's Quest
+		Imp Catcher
+		Merlin's Quest
+		Vampire Slayer
+				]
+Introduce Dragons
+Green Dhide Equipment-Black Dhide equipment
+Dragon Equipment
+
+All these NPCs:
+
+Spider
+Rat
+Cave Goblin
+Goblin
+Chicken
+Giant Spider
+Zombie
+Ice Spider
+Snake
+Man
+Woman
+Guard
+Hill Giant
+Giant Rat
+Barbarian
+Dwarf
+Cow
+Snake
+Imp
+
+Skeleton
+Wolf
+Monkey
+HobGoblin
+IceFiend
+Minotaur
+Rock Crab
+Ghost
+Scorpion
+Unicorn
+highwayman
+Bear
+Bat

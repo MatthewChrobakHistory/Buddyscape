@@ -1,0 +1,14 @@
+200,000 = 330 frost bones
+-turmoil
+175,000 = 300 bones
+-soul split
+150,000 = 250 frost bones
+-wrath
+100,000 = 150 frost bones
+-smite
+75,000 = 100 frost bones
+-retribution
+30,000 = 50 frost bones
+-rapid heal
+20,000 = 33 frost bones
+-rapid restore

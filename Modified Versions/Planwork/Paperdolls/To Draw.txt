@@ -1,0 +1,40 @@
+Knives all metals
+Chainskirts all metals
+Swords all metals
+Scimitars all metals
+
+Sq Shields all metals
+
+
+Bows all wood
+Fishing net
+Fishing rod
+Lobster Pot
+Harpoon
+Soft Leather Male and Female
+Hard Leather Male and Female
+Snakeskin Male and Female
+
+FINISH FEMALE SPRITE
+Female Body all metals (all types)
+Kiteshields all metals (Female)
+Sq Shields all metals (Female)
+
+
+DONE
+
+DAY 1
+Male Body all metals (all types)
+Platelegs all metals
+Full Helmet all metals
+
+DAY 2
+2h all metals
+
+DAY 3
+Pickaxes all metals
+
+DAY 4
+Med Helms all metals
+Hatchets all metals
+Kiteshields all metals (Male)

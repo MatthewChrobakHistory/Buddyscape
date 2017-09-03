@@ -1,0 +1,9 @@
+Auto attack
+map required spell
+anti afk training
+fatigue
+melee, ranged, and magic weapon types
+melee, ranged, and magic armor types
+npcs do higher damage on specific armor types
+players do higher damage on npcs weak to a combat style
+players do higher damage on players armor depending on armor type

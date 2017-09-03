@@ -1,0 +1,29 @@
+1 - The floor is covered in a sheet of ice, along with 4 squares. To complete the puzzle, players will have land on each of the 4 squares.
+2 - This room has 3 statues that represent the combat triangle in it. Two of the statues are armed with a weapon and one of the statues is unarmed. A chisel is in the centre of the room and a crumbling wall will appear on one of the edges.
+3 - This room has two rows of up to five statues in the middle of the room. One of the rows is not armed. A chisel is in the centre of the room and a crumbling wall can be found on the side of one of the walls.
+4 - Three lines of suspicious grooves are found on the ground, separating the entrance from the rest of the room.
+5 - A maze with long, tight corridors blocked by magical doors in which the player must reach the centre before poison gas kills them.
+6 - The room contains four swimming Pondskaters. One Pondskater has the key required to open the door. Upon catching the Pondskater with the right key, the door automatically unlocks.
+7 - There are a variety of tasks that need to be done to cheer up the ghost. An antique ring is on the ground and needs to be returned to the jewellery box. A broken pot (along the sides of the room) and a damaged pillar require repairing. Unlock the coffin and bless the remains of the coffin
+8 - The maze has 8 rooms, each with portals on the sides that lead to a random room.The goal is to reach the centre of the maze. Keep moving as you will continuously take damage while inside the maze until you reach the centre. Once you reach the centre, wait a few seconds and the doors will unlock. In larger teams, there will be pressure pads equal to the number of people the dungeon was designed for. You will need to have everyone standing on a pressure plate in the centre room. There was a glitch where you could stand on one of the tiles, logout, and upon returning the door would unlock without the need of your team. This glitch has been patched as of 2011-09-21. One strategy which often works is that once you enter through one of the initial three doors, always go through the door opposite you.
+9 - Regular npc
+
+
+helmet 5
+sq 5
+maul 5
+platebody 8
+
+1b - a boss surounded by "stone warriors". stone warriors are npcs, and spawn in the same area. free the boss then kill him.
+
+2b - magician with book guardians. books do damage, but have low health. 
+
+3b - skeletal trio. all three type combat armors
+
+4b - luring a boss to come out
+
+5b - a regular boss
+
+
+bosses used - 1,
+traps used -     2,3,4,5,9

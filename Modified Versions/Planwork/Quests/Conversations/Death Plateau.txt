@@ -1,0 +1,20 @@
+Death Plateau
+
+Location: Mountains
+
+	A guard from city PSP asks you to help their ongoing war with the trolls. He wants you to assasinate the troll general.
+
+-requires
+	- Nothing
+
+
+	Find your way through the cliffs
+
+		- Find General in the camp and kill him
+
+	The guard thanks you for your help and rewards you.
+
+REWARDS
+
+	- Coins
+	- Combat XP

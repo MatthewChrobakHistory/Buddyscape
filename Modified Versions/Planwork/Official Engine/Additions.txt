@@ -1,0 +1,73 @@
+Additions - 
+
+Projectiles
+Doors and switches
+Extra Item Slot
+Dicing
+Tile Sprites
+NPC Multiple Drops
+NPC Spells
+
+Real Defense
+Binds
+Swearing Filter
+Partychat Messages
+Mute Player
+Two Handed Weapons
+Transformation Spell
+Noob message (less than half health)
+Resource Multiple Drops
+Npc Equipment Tool Requirement
+
+Binds on Death
+Healing Spell Fix
+Players Walk Through Other Players
+
+Map Animations
+Random Resoure Health
+Random Spell Vitals
+
+Gathering Skill System
+
+Daily Reward System
+
+Skill Interface
+
+Finishing Skill System
+Multiple Paperdoll System
+Multiple Shop Item Cost System
+Fixed Shop Editor
+
+Info Players
+Player Message Fix
+Food Giveback
+Boss Npcs
+Logout Timer
+Laggy Trade Fix
+
+Conversation System
+Quest System(Base)
+Map Tile requirements
+Server Player Editor
+
+Quest System(Conversation Triggers, Item Triggers, NPC Triggers, Help/Hint Info, Player Interface, Conversation Responses Visible/invisible based on whether quest task completed or not, Resource Triggers)
+Set in place the converters
+Item Quest Requirements
+NPC Quest Requirements
+
+Re-wrote the combat system
+
+Quest System(Item rewards and XP rewards, and fixes)
+
+
+
+TODO:	Resource Quest Requirements
+	Touch up on Map Quest Requirements(skills & levels)
+	item combat stats
+	npc combat stats
+	Prevent Food Spamming
+	2h Weapons norm sprite
+
+	Finish Editor
+	Enter to enter chat
+	Resource collected by hand.

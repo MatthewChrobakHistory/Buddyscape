@@ -1,0 +1,123 @@
+http://www.touchofdeathforums.com/smf/index.php/topic,79490.msg851779/boardseen.html#new TOOLS CANT HURT NPCS/PLAYERS
+
+http://www.touchofdeathforums.com/smf/index.php/topic,70436.0.html WALKING THROUGH OTHER PLAYERS
+
+http://www.touchofdeathforums.com/smf/index.php/topic,68998.0.html PLAYER MESSAGE FIX
+
+http://www.touchofdeathforums.com/smf/index.php/topic,69880.0.html COMPLEX SPELL SCALING
+
+http://www.touchofdeathforums.com/smf/index.php/topic,79151.0.html SPELL HOTBAR COOLDOWN FIX
+
+http://www.touchofdeathforums.com/smf/index.php/topic,78833.0.html MORE AGIL = FASTER RUN
+
+http://www.touchofdeathforums.com/smf/index.php/topic,71591.msg769359.html#msg769359 ON DEATH DROPPED ITEMS
+
+http://www.touchofdeathforums.com/smf/index.php/topic,70381.0.html BONUS XP
+
+http://www.touchofdeathforums.com/smf/index.php/topic,77397.0.html BUG FIXES (I'm probably not adding in this one, but its there just in case.)
+
+http://www.touchofdeathforums.com/smf/index.php/topic,69403.0.html FAILSAFE SERVER RESTARTER
+
+http://www.touchofdeathforums.com/smf/index.php/topic,79289.0.html HEALING MESSAGE FIX
+
+http://www.touchofdeathforums.com/smf/index.php/topic,72272.0.html ATTACK FRAME
+
+http://www.touchofdeathforums.com/smf/index.php/topic,78563.0.html SHOP IMPROVEMENT
+
+http://www.touchofdeathforums.com/smf/index.php/topic,75028.0.html EXTRA ITEM SLOT
+
+http://www.touchofdeathforums.com/smf/index.php/topic,78940.0.html SPELLS REQUIRE WEAPON
+
+http://www.touchofdeathforums.com/smf/index.php/topic,79657.msg853513/topicseen.html#msg853513 ADVANCED NPC SYSTEM
+
+http://www.touchofdeathforums.com/smf/index.php/topic,73720.0.html CHARACTER DESCRIPTION
+
+http://www.touchofdeathforums.com/smf/index.php/topic,73579.new.html#new REAL DEFENSE
+
+http://www.touchofdeathforums.com/smf/index.php/topic,62538.0.html FULL SCREEN
+
+http://www.touchofdeathforums.com/smf/index.php/topic,72069.0.html MORE BUTTONS
+
+http://www.touchofdeathforums.com/smf/index.php/topic,67868.0.html CUTSCENES
+
+http://www.touchofdeathforums.com/smf/index.php/topic,79682.msg853715/boardseen.html#new FIXED DROPS
+
+http://www.touchofdeathforums.com/smf/index.php/topic,79208.0.html LEVEL UP EFFECT
+
+http://www.touchofdeathforums.com/smf/index.php/topic,66827.0.html WEBCLIENT
+
+http://www.touchofdeathforums.com/smf/index.php/topic,78011.0.html ADD EMAIL REQUIREMENT
+
+http://www.touchofdeathforums.com/smf/index.php/topic,68828.0.html ADD TILE SPRITES
+
+http://www.touchofdeathforums.com/smf/index.php/topic,74050.0.html STAT RESET POTION
+
+http://www.touchofdeathforums.com/smf/index.php/topic,79789.msg855093/boardseen.html#new CONTAINER ITEM TYPE
+
+http://www.touchofdeathforums.com/smf/index.php/topic,70502.0.html QUEST SCRIPT
+
+http://www.touchofdeathforums.com/smf/index.php/topic,78425.new.html#new MUTE
+
+http://www.touchofdeathforums.com/smf/index.php/topic,71642.new.html#new SPELL FIX
+
+_____________________________________________________________
+
+http://www.touchofdeathforums.com/smf/index.php/topic,68906.0.html SEX REQUIREMENT FOR EQUIPMENT
+
+http://www.touchofdeathforums.com/smf/index.php/topic,74678.0.html SWEARING FILTER
+
+http://www.touchofdeathforums.com/smf/index.php/topic,72388.0.html NPC/PLAYER NAMES VISIBLE OVER HOVER
+
+http://www.touchofdeathforums.com/smf/index.php/topic,72697.0.html PARTYCHAT MESSAGES
+
+http://www.touchofdeathforums.com/smf/index.php/topic,69417.0.html STAFF IS INVISIBLE
+
+http://www.touchofdeathforums.com/smf/index.php/topic,70513.0.html CHARACTER NAME RESTRICTIONS
+
+http://www.touchofdeathforums.com/smf/index.php/topic,72169.0.html STAMINA (POSSIBLY)
+
+http://www.touchofdeathforums.com/smf/index.php/topic,75405.0.html DOORS, SWITCHES ETC
+
+http://www.touchofdeathforums.com/smf/index.php/topic,70107.0.html CLASS MAX HP/MP
+
+http://www.touchofdeathforums.com/smf/index.php/topic,72727.0.html ADMIN TAGS
+
+http://www.touchofdeathforums.com/smf/index.php/topic,68816.0.html TRANSPARANT CHATBOX
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,80087.msg858091.html#new PVP REQUIREMENT
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,80095.msg858164.html#new NPCS REQUIRE WEAPON
+
+http://www.touchofdeathforums.com/smf/index.php?topic=59564.0 NPC SPELLS
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,80386.msg860557.html#new 2HANDED WEAPONS
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,80736.msg864384.html#new MAP ANIMATIONS
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,63604.0.html BIGGER PICSCREEN
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,78719.0.html PAPERDOLL HAIR
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,64806.0.html CRAFTING
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,73708.0.html PROJECTILES
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,77287.msg827024/topicseen.html#msg827024 PROJECTILES SCALING
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,79219.0.html CRAFTING MAP ATTRIBUTE
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,78554.0.html RESOURSE TOOL POWER
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,75443.0.html MINIMAP
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,75937.0.html MOTD FROM SERVER
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,82099.0.html LOADING PLEASE WAIT SCREEN
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,82165.0.html CLICK TO MOVE
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,81701.0.html CHAT ENTER
+
+If case "/Emote" and GetPlayerEquipment(index, Armor).value = 45 then
+	SendAnimation GetPlayerMap(index), (1), GetPlayerX(index), GetPlayerY(index)
+	end if

@@ -1,0 +1,7 @@
+Boolean	 True or False
+Byte	 A number 0 to 255
+Double	 A 64 bit floating point number (I.E. 3.1415) - This is used when a high degree of accuracy is needed.
+Integer	 A whole number from -32768 to 32767
+Long	 A whole number from -2,147,483,648 to 2,147,483,647
+Single	 A 32 bit number like a double, but with less pecision
+String	 A collection of letters such as "Hello". This is used to store words and sentances.

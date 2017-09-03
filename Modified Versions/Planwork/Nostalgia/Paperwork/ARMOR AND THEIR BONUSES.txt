@@ -1,0 +1,49 @@
+Bronze 1-1
+Iron 2-1
+Steel 8-4
+Mithril 12-6
+Adamant 16-8
+Rune 20-10
+green dhide 20-12
+blue dhide 40-14
+red dhide 60-16
+black dhide 80-20
+3a 100-24
+barrows 130-28
+armadyl 180-32
+morrigans 220-36
+pernix 255-34
+
+Bronze 1-1
+Iron 2-1
+Steel 8-4
+Mithril 12-6
+Adamant 16-8
+Rune 20-10
+combat 20-12
+drudic 50-14
+battle 75-16
+mystic 100-18
+3a 125-20
+barrows 150-22
+infinity 170-24
+zuriels 210-28
+virtus 255-26
+
+Bronze 1-1
+Iron 2-1
+Steel 8-4
+Mithril 12-6
+Adamant 16-8
+Rune 20-10
+Dragon 40-20/50,22
+3rd age 60-25
+Barrows 80-25
+Bandos 100-30
+Vesta 150-35
+Statius 200-45
+Torva 255-40
+
+Melee ---More Str
+Range --Evened Out
+Magic ---More Spirit

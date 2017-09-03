@@ -1,0 +1,96 @@
+Big Chompy Bird Hunting
+
+Located: Swamp
+
+
+
+
+				'' if the quest is started, this conversation is not visible.
+Oger: 'Ello	You: Hello!	Oger: 'M hungry. Human make oger food.		You: Why?	(GOTO ##1)
+
+				'' if the quest is not started or finished, this conversatino is not visible
+				Oger: Human make oger food?			GOTO ##2
+				
+
+				Oger: What human want?			You: Nothing.	Oger: Silly human. Why you bug oger? (Exit conv)
+
+
+##1
+Oger: 'M hungry.
+You: Get the food yourself!
+Oger: No. Human get oger food.
+You: What if I don't want to?
+Oger: Human has to. Oger much much Stronger than human.
+You: Hah! I could easily beat you.
+Oger: No. Oger stronger than Human.
+You: If I were to get you food, what would you want?
+Oger: Chompy bird.
+You: Where is this "Chompy bird"?
+Oger: Dunno. In swamp I guess. You need oger arrow and bow to kill chompy bird.
+You: How do I get this oger bow?
+Oger: Craft it.
+You: Sounds primitive
+Oger: Why you not get food for oger now?
+
+You: Fine I'll get you your stupid food. (Accept quest)		Oger: Human go fast, but make food good. Oger Hungry.
+You: This is silly. I'm going now.	(Exit conv)		Oger: Human not get oger food. Silly human.
+
+
+
+##2
+((NO))
+(Exit conv)
+
+((YES))
+
+You: Yes I made you your silly chompy birds.
+Oger: *The oger is too busy eating to thank you* (Quest finish)
+
+
+(Accept Quest)
+
+Oger is hungry, and wants chompy birds to eat. He is lazy, and wants you to do it for him. Chompy birds need to be hunted with an ogre bow and orgre arrows. You can find the resources in the swamp, and craft the items at oger's camp.
+
+
+START PART 1
+
+You need 
+	Oger Bow (Swamp Logs and Swamp Reed)
+	100 Oger Arrows (Swamp Logs and Stone Bits)
+
+	*Hints*
+		Use the arrows with the bow to make an armed Ogre Bow
+		Stone bits can be mined from rocks in the swamp
+
+
+
+
+
+
+	Needs 300 Woodcuttingxp	- Cut Swamp tree -> Get Logs
+	Needs 300 Fletchingxp	- Craft Logs -> Make Bow
+	Needs 300 Fletchingxp	- Pick Swamp Reeds -> Use with bow -> Get Ogre Bow
+	Needs 300 Woodcuttingxp	- Cut Swamp Tree -> Get Logs
+	Needs 300 Fletchingxp	- Craft Logs -> Arrow shafts
+	Needs 200 Miningxp	- Mine Coarse Rock -> Get Stone Bits
+	Needs 300 Fletchingxp	- Make Arrows with Shafts and Stone Bits
+	Needs 10 str to equip	- Arrows + Ogre Bow = Ogre Bow with arrows
+
+	Equip Ogre Bow
+
+END PART 1
+
+START PART 2
+
+	Now you can hunt the chompy birds! Kill ten, cook them, and give them to the ogre.
+
+END PART 2
+
+REWARDS
+
+	FletchingXP	(50)
+	CookingXP	(40)
+	MiningXP		(40)
+	OgreBow
+
+	Chompy Bird Hats

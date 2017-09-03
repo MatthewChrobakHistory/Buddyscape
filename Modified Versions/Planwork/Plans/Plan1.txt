@@ -1,0 +1,29 @@
+Home[
+		Quest Master
+		Crafting Home[
+				Cooking(Chicken to tuna)
+				Smithing(Bronze to Steel)
+				Fletching(norm to willow)
+				Herblore(normal to super potions)
+				crafting[Ranged Armor(Cowhide to blue dragon)]
+		Trees(norm to oak)
+		Guards, Man, Woman, Rat
+				]
+Forrest (Both)[
+		Spider
+		Bandit		
+		Tree(norm to yew)
+Wild[
+		Magic Tree
+		Skeletons
+		Zombies
+			]
+
+
+Mountains[
+		
+		Dwarves
+		Bats
+		Cave Goblins
+		zombie
+				]

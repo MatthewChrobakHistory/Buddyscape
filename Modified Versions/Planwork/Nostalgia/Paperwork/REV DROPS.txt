@@ -1,0 +1,31 @@
+1 -1/10
+z hood
+morigans body
+vesta spear
+z staff
+m spear
+stat helmet
+
+2 1/10
+z robe
+m coif
+stat set
+vesta set
+vls swh
+morigans axe
+
+3 -1/6
+z hood
+morigans body
+vesta spear
+z staff
+m spear
+stat helmet
+
+4 1/6
+z robe
+m coif
+stat set
+vesta set
+vls swh
+morigans axe

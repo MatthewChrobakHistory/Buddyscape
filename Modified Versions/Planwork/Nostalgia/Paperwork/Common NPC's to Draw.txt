@@ -1,0 +1,39 @@
+common npcs to draw
+
+chicken
+duck
+rat (DONE!)
+spider
+cow
+calf
+giant spider
+goblin (DONE)
+imp (DONE)
+man (DONE!)
+woman (DONE!)
+sea gull
+giant rat
+guard (DONE!)
+snake
+mugger
+wizard
+dwarf
+skeleton
+wolf
+minotaur
+bat
+zombie
+scorpion
+barbarian
+unicorn
+black bear
+ghost
+giant
+hobgoblin
+werewolf
+demon
+turkey
+farmer
+dragon (DONE!)
+bear cub
+thief (DONE)

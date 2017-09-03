@@ -1,0 +1,63 @@
+Barrows items come as broken items. To fix them you need to have a smithing level of 4
+Godswords need a level of 5
+Spirit shields need a smithing level of 6
+
+Bronze&tin. 2
+Iron. 4
+Coal. 5
+Mith. 10
+Addy. 15
+Rune. 30
+
+Smithing is half of mining xp
+
+Mining level
+1.  100
+2. 250
+3.  550
+4. 1100
+5. 2250
+6. 4550
+
+Each shop sells
+Fullhelm
+Scimitar
+Platebody
+Legs
+Kiteshield
+2hander
+Throwingknives
+Bolts
+
+3 shards
+1 hilt
+
+Crafting for jewels and leather/dhide
+Jewels are needed for special crossbowbolt specials
+
+Wc and fletching
+
+URNS for each skill! Hunter and prayer not included
+Effigies are for each skill
+
+12 clue scrolls
+Easy gives 1 reward box, med gives 2, hard gives 3, elite gives 5
+
+Genie - xp lamp
+Wolf - hati paws and hat
+Evil chicken - chicken suit
+Phesant - lederhosen
+Reward box - clue scroll reward
+
+Clue scrolls are dropped by
+Chaos elemental easy-elite
+Most gwd bosses hard-elite
+Tds hard-elite
+
+
+Random events are dropped by
+Chaos elemental all
+Tzhars
+Abby demons
+
+Chaos elemental has highest random/clue scroll rate

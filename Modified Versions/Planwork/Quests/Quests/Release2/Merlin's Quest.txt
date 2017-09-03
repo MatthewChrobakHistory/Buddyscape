@@ -1,0 +1,23 @@
+Merlin's Quest
+
+Location: Home
+
+REQUIREMENTS
+	
+	Miningxp (Optional)
+	Smithingxp (Optional)
+	Combatxp
+
+	King Arthur asks you if you want to be a knight of the round table. If yes, you need to prove yourself! There's a band of unruly bandits in an outpost of King Arthurs. Defeat them with the Excalibur!
+
+
+	Excalibur can be purchased at the lady of the lake for a steel sword.
+
+		- Make/Purchase sword
+		- Sword is blessed by the lady of the lake
+
+	Defeat the enemies and their leader, and complete the quest!
+
+REWARDS
+
+	Excalibur

@@ -1,0 +1,20 @@
+Fight Arena
+
+Location: Forrest
+
+	An elf is sad because a Mahajarrat is threatening to kill her family if she doesn't pay him enough money. Can you help her?
+
+-requires
+	- Combat XP
+
+	She tells you that you need to sneak into his camp. You could kill his dog as a sign that she shouldn't be messed with.
+
+	- Bribe Guard
+	- Find & Kill Bouncer
+
+	The elf thanks you and gives you some of the money she would have paid the General Khazard.
+
+REWARDS
+
+	- Combat XP
+	- Coins

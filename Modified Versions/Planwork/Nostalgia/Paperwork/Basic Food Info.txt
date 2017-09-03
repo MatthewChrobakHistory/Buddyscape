@@ -1,0 +1,7 @@
+25 cod 25 prayer 3
+50 tuna 50 prayer 4
+100 swordfish 100 sr 1
+150 monkfish 150 sr 2
+200 shark 200 sr 3
+250 rocktail 250 super restore 4
+255 tigershark 255  

@@ -1,0 +1,6 @@
+Weapon Types (Melee, Ranged, Magic)
+
+Attack (increases chance of attack)
+Strength (increases damage done, increases chance that you block an attack, decreases weight)
+Defense (increases chance that you block an attack, increases max health)
+Agility (decreases weight, increases chance of attack, increases damage done, increases max spirit)

@@ -1,0 +1,42 @@
+DEFENSE REQUIRED
+Novite 1
+Bathus 10
+Marmaros 20
+Kratonite 30
+Fractite 40
+Zaphyrium 50
+Argonite 60
+Katagon 70
+Gorgonite 80
+Promethium 90
+Primal 99
+
+Protoleather
+Subleather
+Paraleather
+Archleather
+Dromoleather
+Spinoleather
+Gallileather
+Stegoleather
+Megaleather
+Tyrannoleather
+sagittarian
+
+Salve
+Wildcress
+Blightleaf
+Roseblood
+Bryll
+Duskweed
+Soulbell
+Ectograss
+Runic
+Spiritbloom
+Celestial
+
+Battle-mage - Magic Melee
+Trickster - Ranged Magic
+Vanguard - Ranged Melee
+
+All Clay equipment 1-5

@@ -1,0 +1,21 @@
+Doric's Quest
+
+Location: Home
+
+REQUIREMENTS
+	
+	MiningXP
+	SmithingXP
+
+
+
+	Doric will let you use his anvils if you get him 1 coal and 1 steel bar.
+
+
+	Get the items and give them to doric. This will complete the quest
+
+REWARDS
+
+	SmithingXP
+	MiningXP
+	Coins

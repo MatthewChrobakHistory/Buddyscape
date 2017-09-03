@@ -1,0 +1,147 @@
+
+
+
+d med - 5 str 20 end pd 87
+d full - 10 str 30 end pd 3
+d med set - 2x dmed pd 137
+d full set - 2x fdull pd 130
+d claw - 10 str 20 damage pd 151,150 speed 1.5
+d scimitar - 5 str 10 damage 10 agil 10 will 10 int speed 1.5 pd 13
+d hatchet - 20 damae 5 str speed 1.5 pd 76
+d halibard - str 20 damage 20 speed 3 pd 69
+d dagger 5 damage 5 str speed 1.5 pd 4
+d mace 10 damage str 10 speed 1.7 pd 6
+d baxe 10 damage 15 str speed 1.7 pd 7
+whip 15 damage 20 str speed 1.5 int 50 pd 5
+white 73 yellow 74 green 75 blue 78
+zgs - damage 30 str 15 agil 10 will 10 int 10 speed 3 pd 48
+ags - damage 25 str 35 agil 10 will 10 int 10 pd 26
+bgs - 20 damage 25 str 10 agil 10 will 10 int speed 3 pd 24
+sgs - damage 20 str 15 agil 10 end 100 will 10 int 10 pd 52
+ahrim hood end 30 agil 30 will 60 int 60 pd 17
+ahrim staff - damage 10 str 1 agil 20 end 30 will 20 int 50 pd 19 speed 1.5
+guthan helm str 4 agil 10 end 40 will 10 int 10 pd 43
+guthan spear 20 damage 15 str speed 2 pd 46
+dh helm damage 1 str 22 end 40 pd 12
+dh axe 27 damage 27 str speed 3 pd 28
+torag helm 5 str end 40 pd 86
+torag warhammer 20 damage str 15 speed 2 pd 58
+verak helm 3 str agil 10 end 40 will 40 int 40 pd 62
+verak flail 20 damage 15 str agil 20 will 20 int 20 pd 61
+karil coif 1 str end 40 pd 101
+karil cbow 10 damage str 10 speed 2 pd 47
+void mage helm 60 agil 30 end 60 will int 60 pd 64
+void ranged helmet str 25 end 30 pd 66
+void melee helm 45 str pd 65
+void set 50 str end 60 pd 37
+ss 20 damage str 20 speed 1.5 pd 36
+slayer helmet damage 10 str 30 end 50 pd 33
+bandos set 70 str 100 end pd 134
+arma helm 20 str 20 agil 20 will end 50 int 20 pd 21
+arma set pd 20
+crystal bow 20 damage 20 speed 1.5 pd 39
+3a helm str 25 agil 30 end 75 will 30 int 30 pd 85
+3a set pd 131
+rapier damage 25 str 42 agil 20 will 20 int 20 pd 155
+cls damage 45 str 25 agil 20 will 20 int 20 pd 35
+cmaul damage 45 str 45 agil 20 will 20 int 20 pd 157
+ccbow damage 35 str 35 agil 30 will 30 int 30 pd 32
+firecape damage 10 str 30 agil 30 end 30 will 30 int 30 pd 40
+bunny ears 25
+santa 51
+hween g,r,b 41,78,77
+phat b,g,p,r,w,y,black 83,79,81,80,67,84,82
+stat helm 45 str agil 40 end 100 will 40 int 40 pd 116
+stat set
+135
+rune helm 10 end pd 88
+rune scimitar 10 str damage 5 pd 111
+cape of accomplishment 30 str end 20 pd ???
+sol 5 damage str 10 agil 60 end 10 will 60 int 60 pd 93 speed 1.5
+c staff 10 damage 15 str agil 80 end 10 will 80 int 80 pd 94 speed 1.7
+z spear 20 damage str 20 speed 1.8 int 50 pd 95
+dbow damage 20 str 10 agil 20 will 0 speed 2 int 20 pd 102
+b,y,g,w 103,105,104,106
+hc damage 25 str 25 agil 20 will 20 int 20 pd 108 speed 3
+korasi 25 damage str 10 agil 20 end 20 will 20 int 20 speed 1.6 pd 109
+creeping eye 30 in all pd 154
+tz tok jad 50 in everything pd 153
+legend cape 30 str end 30 pd 166
+faithful shield 30 str damage 10 agil 100 end 100 will 100 int 100 pd 156
+obby shield 30 str end 30 pd 167
+seers kiteshield 15 str agil 50 end 30 will 50 int 50 pd 185
+d pick 25 damage str 3 speed 1.6 pd 170
+rune pick damage 15 str 1 speed 1.6 pd 202
+theiving gloves damage 1 speed 0.5 pd 114
+vls damage 23 str 30 agil 18 will 18 int 18 pd 115
+torva helm 40 str agil 40 end 255 will 40 int 40 pd 119
+torva set 138
+perinx cowl 25 str agil 60 end 255 will 60 int 70 pd 125
+perinx set str 50 agil 120 end 255 will 120 int 140 pd 133
+virtus mask str 20 agil 100 end 200 will 100 int 100 pd 122
+virtus set 132
+dfs str 5 end 50 pd 149
+arcane 10 str agil 100 end 100 will 100 int 100 pd 143
+ely 20 str agil 70 will 70 int 70 end 190 pd 140
+divine 30 str agil 50 end 255 will 50 int 50
+spect str 15 agil 80 end 150 will 80 int 80 pd 142
+spirit shield 5 str agil 20 end 70 will 20 int 20 pd 139
+rune defender 30 str end 30 pd 144
+dragon defender 40 str end 20 pd 146
+f defender 50 str end 10 pd 145
+chaotic shield str 15 agil 10 will 10 int 10 end 75
+archer shield 10 str agil 30 end 60 will 30 int 30 pd 147
+3a shield 25 str agil 30 end 75 will 30 int 30 pd 158
+morigan coif 30 str agil 80 end 100 will 80 int 80 pd 176
+morigan set 179
+morigan thrown axe str 15 damage 15 agil 30 will 30 int 30 pd 171 speed 1.4
+morigan javolin 40 damage str 20 agil 40 will 40 int 40 pd 175 speed 2
+zuriel hood 20 str 110 agil 90 end will 110 int 110
+set 178
+zuriel staff 10 damage str 10 agil 70 end 10 will 70 int 70 speed 1.7
+vesta set 80 str agil 100 will 100 int 100 end 220 pd 177
+v spear 35 damage str 25 agil 10 will 10 int 10 pd 172
+stat hammer 35 damage str 20 agil 20 will 20 int 20 pd 173
+rcrobe blue pd 196
+hat 191
+rcrobe green 194
+hat 190
+rcrobe yellow 195 195
+hat 192
+rcrobe white 197
+hat 193
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

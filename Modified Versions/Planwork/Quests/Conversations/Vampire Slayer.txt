@@ -1,0 +1,13 @@
+Vampire Slayer
+
+Location: Home
+
+	A villager fears for his life because a vampire is in the haunted house. Can you kill the vampire for him?
+
+
+	Go to the haunted house and kill the vampire to finish the quest.
+
+REWARDS
+
+	Coins
+	Combatxp

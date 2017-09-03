@@ -1,0 +1,29 @@
+Horror from the Deep
+
+Location: Just west of the Dock under Home
+
+	The Lighthouse is broken. Can you fix it and stop the monsters underneath from causing more damage?
+
+-requires
+	- Combat XP
+	- Crafting XP
+	- Smithing XP
+	- Woodcutting XP
+
+	Lyra says that her lighthouse needs to be checked up on. Can you check up on it for her?
+
+	- Go to the lighthouse
+	- [Brambles cover the enterance. You need to cut these down]
+	- Cut them down
+	- Enter lighthouse [Its in horrible shape]
+	- Report this to lyra
+	
+	Lyra asks you to get rid of the cursed Dagonoths that are probably causing the damage.
+	
+	- Kill 30 Dags
+
+	Lyra thanks you
+
+REWARDS
+
+	- Access to Dag Kings

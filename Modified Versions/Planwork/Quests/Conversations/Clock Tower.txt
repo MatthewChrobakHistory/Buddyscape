@@ -1,0 +1,17 @@
+Clock Tower
+
+Location: Home
+
+	Brother XYX's clock tower is broken and he needs you to help fix it.
+
+
+	Cogs can be found in the cellar bellow the tower. There are some creatures there, so be careful! Brother XYX lost four cogs, so find all of them!
+
+		- Find Cogs
+		- Give them to Brother XYX
+
+	Give the Cogs to Brother XYX and he'll give you a "Finished Quest" scroll.
+
+REWARDS
+
+	Coins

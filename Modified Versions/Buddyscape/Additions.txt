@@ -1,0 +1,33 @@
+Additions - 
+
+Projectiles
+Doors and switches
+Extra Item Slot
+Dicing
+Tile Sprites
+Multiple Drops
+NPC Spells
+
+Real Defense
+Binds
+Swearing Filter
+Partychat Messages
+Mute Player
+Two Handed Weapons
+Transformation Spell
+Noob message (less than half health)
+Resource Multiple Drops
+Npc Equipment Tool Requirement
+Degrading Items
+
+Binds on Death
+Healing Spell Fix
+Players Walk Through Other Players
+
+Map Animations
+Random Resoure Health
+Random Spell Vitals
+
+Daily Reward System
+Option to turn the daily reward system on or off
+Picking Daily Reward from server

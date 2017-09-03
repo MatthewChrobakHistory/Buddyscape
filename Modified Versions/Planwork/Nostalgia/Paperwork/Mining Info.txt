@@ -1,0 +1,23 @@
+bronze
+iron
+mith
+addy
+rune
+
+mining health
+10
+50
+100
+150
+200
+250
+500
+
+pickaxe
+1
+2
+4
+8
+16
+32
+64 (dragon)

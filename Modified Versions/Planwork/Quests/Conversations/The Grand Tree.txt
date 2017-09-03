@@ -1,0 +1,21 @@
+The Grand Tree
+
+Location: Forrest
+
+	The Grand Tree stopped working. Who is causing this to happen? Talk to the gnome king to find out.
+
+-requires
+	- Combat XP
+
+	The Gnome king says the found that a gnome called Glough is casting black magic to wreak havok among the gnomes. Stop him!
+
+	- Go outside the gnome's village
+	- Find Glough's cave
+	- Kill his summoned demon
+	- Kill Glough
+
+	The King thanks you and lets you use the grand tree now that the black magic isn't being cast anymore.
+
+REWARDS
+
+	- Grand Tree Access

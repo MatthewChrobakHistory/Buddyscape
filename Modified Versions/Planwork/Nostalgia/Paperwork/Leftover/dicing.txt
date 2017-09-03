@@ -1,0 +1,174 @@
+Public Sub DiceMsg(ByVal text As String)
+Dim Buffer As clsBuffer
+
+     'If debug mode, handle error then exit out
+     If Options.Debug = 1 Then On Error GoTo errorhandler
+     
+     Set Buffer = New clsBuffer
+     Buffer.WriteLong CDiceMsg
+     Buffer.WriteString text
+     SendData Buffer.ToArray()
+     Set Buffer = Nothing
+     
+     'Error handler
+         Exit Sub
+errorhandler:
+    HandleError "Dicemsg", "modClientTCP", Err.Number, Err.Description, Err.Source, Err.HelpContext
+    Err.Clear
+    Exit Sub
+End Sub
+
+
+
+
+
+
+in client tcp above
+
+Public Sub Playermsg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CDiceMsg
+
+under
+
+CEmoteMsg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Case "/dice"
+                    If GetPlayerAccess(MyIndex) > ADMIN_MAPPER Then
+                    MyText = Mid$(ChatText, 2, Len(ChatText) - 1)
+
+                    If Len(ChatText) > 0 Then
+                         Call DiceMsg(ChatText)
+                    End If
+                MyText = vbNullString
+                frmMain.txtMyChat.text = vbNullString
+                Exit Sub
+                End If
+
+under
+
+Case "/help"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SERVER
+
+
+
+HandleDataSub(CDiceMsg) = GetAddress(AddressOf HandleDiceMsg)
+
+under 
+
+HandleDataSub(CEmoteMsg) = GetAddress(AddressOf HandleEmoteMsg)
+
+
+
+
+
+
+
+
+Private Sub HandleDiceMsg(ByVal index As Long, ByRef Data() As Byte, ByVal StartAddr As Long, ByVal ExtraVar As Long)
+    Dim Msg As String
+    Dim i As Long
+    Dim Buffer As clsBuffer
+    Set Buffer = New clsBuffer
+    Buffer.WriteBytes Data()
+    Msg = Buffer.ReadString
+
+    ' Prevent hacking
+    For i = 1 To Len(Msg)
+
+        If AscW(Mid$(Msg, i, 1)) < 32 Or AscW(Mid$(Msg, i, 1)) > 126 Then
+            Exit Sub
+        End If
+
+    Next
+
+    Call AddLog("Map #" & GetPlayerMap(index) & ": " & GetPlayerName(index) & " " & Msg, PLAYER_LOG)
+    Call MapMsg(GetPlayerMap(index), GetPlayerName(index) & " " & "rolls a " & Int((100 * Rnd) + 1) & ".", BrightGreen)
+    
+    Set Buffer = Nothing
+End Sub
+
+
+
+
+
+above 
+
+Private Sub HandleBroadcastMsg
+
+
+
+
+
+
+
+
+
+
+
+
+
+CDiceMsg
+
+under
+
+CEmoteMsg

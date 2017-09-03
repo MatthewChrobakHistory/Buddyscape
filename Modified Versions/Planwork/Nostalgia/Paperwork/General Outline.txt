@@ -1,0 +1,90 @@
+mining
+smithing
+woodcutting
+fletching
+crafting
+Basic maps
+
+prayer
+slayer
+desert lizards
+
+Chaos Dwarves
+Small training dungeons
+warriors guild
+fist of guthix
+barrows
+Cave Horrors
+brimhaven dungeon
+
+tower of void
+jad wave 1-10
+jad wave 11-20
+Jad wave 21-30
+jad wave 31-40
+jad wave 41-50
+jad wave 51-60
+jad wave 61-63
+Abbysal Demons
+
+gwd
+rev dungeon - revs, green dragons
+kbd
+Glaciors
+Dark Beasts
+dungeoneering floor 1-5 *NOT PLAYABLE YET TILL RELEASE*
+
+daggonath kings
+champion's guild
+dungeoneering floor 6-10 *NOT PLAYABLE YET TILL RELEASE*
+
+conquest
+dungeoneering floor 11-15 *NOT PLAYABLE YET TILL RELEASE*
+dungeoneering floor 16-20 *NOT PLAYABLE YET TILL RELEASE*
+
+Tormented Demons - while guthix sleeps
+dungeoneering floor 21-25 *NOT PLAYABLE YET TILL RELEASE*
+
+DUNGEONEERING RELEASE
+crafting
+clue scroll 1-3
+clue scroll 4-6
+clue scroll 7-9
+
+Construction
+paperdolls
+item descriptions
+add in a price for the items
+
+Dominion Tower
+Impetous Plane
+
+
+[Possible in any update]
+
+Farming
+herblore
+Ranged Spells
+simple magic spells
+runecrafting
+special attacks
+
+chaos dwarves
+cave horrors
+abbysal demons
+dark beast
+glaciors
+
+all skrykewyrms
+
+
+Giant
+Cyclops
+Rat
+Man
+Woman
+Thief
+Outlaw
+Goblin
+Snake
+Bird

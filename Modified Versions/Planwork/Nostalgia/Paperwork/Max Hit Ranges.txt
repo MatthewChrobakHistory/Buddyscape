@@ -1,0 +1,25 @@
+melee max 700
+max no armor 400
+min 50
+
+max mage 120
+maximum mage 1500
+min mage 600
+
+max range 1000
+min 500
+
+[[MELEE]]
+minimum range 1
+common range 1
+maximum range 3
+
+[[MAGIC]]
+minimum range 7
+common range  9
+maximum range 11
+
+[[RANGE]]
+minimum range 5
+common range 7
+maximum range 8

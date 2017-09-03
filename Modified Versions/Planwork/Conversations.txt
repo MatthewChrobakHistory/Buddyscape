@@ -1,0 +1,20 @@
+[BEGINNER_MASTER]
+
+Hello! How can I help you?
+	1: Where am I?
+	2: What can I do here?
+	3: Where can I find monsters to kill?
+	4: Nothing thank you.
+
+	[Where am I?]
+	: You're on my property. I've gone throughout the land and killed many beasts. I've grown weary of my adventuring, and I've decided to settle here and help others start their grand adventures.
+	: You have mountains to the west that have valuable ore in them, as well as caves full of beasts to slay.
+	: Up north you have a barren land where players can attack each other.
+	: If you head east, you'll find forrests and desert.
+	: If you head south, you'll find a shipyard with people willing to take you to other islands for a cost.
+
+	[What can I do here?]
+	: You'll find we have a bank for storing all your items, a store for some of your basic needs, and a crafting zone for creating supplies for your adventures.
+
+	[Where can I find monsters to kill?]
+	: You'll find monsters throughout the entire world!

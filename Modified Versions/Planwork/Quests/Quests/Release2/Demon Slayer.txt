@@ -1,0 +1,25 @@
+Demon Slayer
+
+Location: Home
+
+REQUIREMENTS
+	
+	Combat XP
+
+
+
+	A gypsy tells you that you are destined to defeat Delerith, a demon coming to the world. You need Silverlight to kill him!
+
+	The gypsy says that silverlight was owned by King Arthur, but he lost the sword in the cave where delerith would appear should he return. Find the sword!
+
+
+	Go to the cave and find the sword. Then go into the next room and defeat delerith.
+
+		- 
+
+	Defeat the enemies, and complete the quest!
+
+REWARDS
+
+	Coins
+	Silverlight

@@ -1,0 +1,12 @@
+In order to play Buddyscape, you need to download this.
+
+http://www.robin.freemmorpgmaker.com/eo_runtimes.zip
+
+
+If you want to play with your friends, they need to download the link above and you all need to download logmeinhamachi. 
+
+https://secure.logmein.com/products/hamachi/download.aspx
+
+Select the unmanaged mode. Once you open logmeinhamachi, you will be given an ip. Go to Buddyscape Game, client, client, config. Replace localhost with the ip.
+
+Go to Buddyscape 1.6.3, client, client, and put the Application and data files into a zipped folder. Send this folder to your friends.

@@ -1,0 +1,23 @@
+Let them Eat Pie
+
+Location: Home
+
+	A rich barron is taking all the food from a chef. Teach him a lesson!
+
+-requires
+	- FishingXP
+	- CookingXP
+
+	The chef recommends making the barron so sick of food. You can do this by making a disgusting crayfish pie.
+	
+	- Catch Crayfish
+	- Give it to the chef
+	- Cook the pie
+	- Give it to the barron
+
+	The barron no longer likes food. Job well done!
+
+REWARDS
+
+	- Cooking XP
+	- Fishing XP

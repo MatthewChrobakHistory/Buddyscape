@@ -1,0 +1,37 @@
+Pre-Barrows quests for Recipe for Disaster
+
+The Chef says he's planning a party and needs you to invite some specific guests.
+In order to invite some of the people, you need to have finished the following quests.
+
+Goblin Diplomacy
+Fishing Contest
+Monkey Madness
+Chompy Bird Hunting
+Lost City
+[none]
+[none]
+[none]
+
+
+Goblin General
+Dwarf
+Oger
+Sir Amik Varze
+King Monkey
+Evil Dave
+Quest Master
+Pirate Pete
+
+Once the guests are invited, the Chef will ask you to gather a few items that he needs. Once you gather them, you'll be invited to the feast.
+
+Upon entering the feast, the Culimancer arrives. Naturally, you go talk to him. You ask him he if he is one of the guests, and he replies by saying "No! I am here to take over the world!" and warps the player to another map that has the warped characters, except the chef.
+You ask the chef what happened, and he says that the culimancer froze time for the dinner guests. They were all in one way or another important, so getting them unfrozen is important. We may be able to revive them by giving them their favorite foods. Can you help him?
+
+
+	[GOBLINS] -> Bowl of Mush -> Soggy Bread, Fishing bait
+		-Goblin Diplomacy (NEED TO WRITE)
+	[DWARF] -> Rock Cake -> Iron Ore, Cake
+		-Fishing Contest
+	Monkey Madness
+		- The Grand Tree
+	[EVIL DAVE] -> Evil Stew -> Spice, Stew

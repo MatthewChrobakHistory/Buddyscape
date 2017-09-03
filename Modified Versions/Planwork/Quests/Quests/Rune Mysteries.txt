@@ -1,0 +1,12 @@
+Rune Mysteries
+
+Location: Home
+
+	The wizards of the wizards tower have been guarding their supply of rune essense. Talk to the wizard guarding the supply to gain access to it.
+
+
+	Convince the guard you are of no threat to their supply.
+
+REWARDS
+
+	Access to Rune Essense.

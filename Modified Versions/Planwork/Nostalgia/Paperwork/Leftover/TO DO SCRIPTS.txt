@@ -1,0 +1,56 @@
+MIDDLE PRIORITY
+
+LAST SCRIPTS TO ADD
+ 
+
+PERSONAL TUTORIALS TO MAKE AND ADD
+
+
+Changing simple text
+
+Map Morals
+
+LAST UPDATE
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,69521.msg747853.html#msg747853PET SYSTEM
+
+_____________________________________
+ADDED SCRIPTS
+
+http://www.touchofdeathforums.com/smf/index.php?topic=59564.0 NPC SPELLS
+http://www.touchofdeathforums.com/smf2/index.php/topic,75169.msg805251.html#msg805251MULTIPLE DROPS
+http://www.touchofdeathforums.com/smf/index.php/topic,75028.0.html EXTRA ITEM SLOT
+http://www.touchofdeathforums.com/smf/index.php/topic,73579.new.html#new REAL DEFENSE
+http://www.touchofdeathforums.com/smf/index.php/topic,72272.0.html ATTACK FRAME
+http://www.touchofdeathforums.com/smf/index.php/topic,68828.0.html ADD TILE SPRITES
+http://www.touchofdeathforums.com/smf/index.php/topic,70436.0.html WALKING THROUGH OTHER PLAYER
+http://www.touchofdeathforums.com/smf/index.php/topic,68998.0.html PLAYER MESSAGE FIX
+http://www.touchofdeathforums.com/smf/index.php/topic,72697.0.html PARTYCHAT MESSAGES
+http://www.touchofdeathforums.com/smf/index.php/topic,78011.0.html ADD EMAIL REQUIREMENT
+http://www.touchofdeathforums.com/smf/index.php/topic,74678.0.html SWEARING FILTER
+http://www.touchofdeathforums.com/smf/index.php/topic,71591.msg769359.html#msg769359 ON DEATH DROPPED ITEMS
+http://www.touchofdeathforums.com/smf/index.php/topic,78563.0.html SHOP IMPROVEMENT
+http://www.touchofdeathforums.com/smf/index.php/topic,79151.0.html SPELL HOTBAR COOLDOWN FIX
+http://www.touchofdeathforums.com/smf/index.php/topic,70381.0.html BONUS XP
+http://www.touchofdeathforums.com/smf/index.php/topic,69403.0.html FAILSAFE SERVER RESTARTER
+http://www.touchofdeathforums.com/smf/index.php/topic,79289.0.html HEALING MESSAGE FIX
+http://www.touchofdeathforums.com/smf/index.php/topic,79682.msg853715/boardseen.html#new FIXED DROPS/BINDS
+http://www.touchofdeathforums.com/smf/index.php/topic,71642.new.html#new SPELL FIX
+http://www.touchofdeathforums.com/smf/index.php/topic,70107.0.html CLASS MAX HP/MP
+http://www.touchofdeathforums.com/smf2/index.php/topic,80087.msg858091.html#new PVP REQUIREMENT
+http://www.touchofdeathforums.com/smf/index.php/topic,78940.0.html SPELLS REQUIRE WEAPON
+http://www.touchofdeathforums.com/smf/index.php/topic,67213.0.htmlSHOW CHARACTER LEVEL
+Show Npc level
+http://www.touchofdeathforums.com/smf/index.php/topic,69417.0.html STAFF IS INVISIBLE(DOES NOT WORK)
+http://www.touchofdeathforums.com/smf/index.php/topic,72727.0.html ADMIN TAGS
+http://www.touchofdeathforums.com/smf2/index.php/topic,63604.0.html BIGGER PICSCREEN
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,80386.msg860556.html#msg860556 TWO HANDED WEAPONS
+Dicing
+Changing Access level 2 things
+Changing MapMsg, Playermsg, and GlobalMsg's
+Removing XP lost on death and PK status
+
+
+http://www.touchofdeathforums.com/smf2/index.php/topic,80095.msg858164.html#new NPCS REQUIRE SHIELD
+If Map(index).Moral = MAP_MORAL_NONE Then

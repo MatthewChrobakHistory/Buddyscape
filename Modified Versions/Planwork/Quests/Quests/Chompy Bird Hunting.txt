@@ -1,0 +1,34 @@
+Big Chompy Bird Hunting
+
+Located: Swamp
+
+	Oger is hungry, and wants chompy birds to eat. He is lazy, and wants you to do it for him.
+	- Fletching Required
+	- Cooking Required
+	- Strength Required
+	- Mining Required
+
+
+Part 1
+	Chompy birds need to be hunted with an ogre bow and orgre arrows, as well as a chompy bird hat. You can make these in the swamp.
+		- Cut Swamp tree -> Get Logs
+		- Craft Logs -> Make Bow
+		- Pick Swamp Reeds -> Use with bow -> Get Ogre Bow
+		- Cut Swamp Tree -> Get Logs
+		- Craft Logs -> Arrow shafts
+		- Mine Coarse Rock -> Get Stone Bits
+		- Make Arrows with Shafts and Stone Bits
+		- Arrows + Ogre Bow = Ogre Bow (A)
+
+	Now you can hunt the chompy birds! Kill ten, cook ten, give them to the ogre, and receive a "Finish Quest" scroll.
+
+REWARDS
+
+	FletchingXP
+	CookingXP
+	MiningXP
+	StrengthXP
+	OgreBow
+	The Ability to hunt Chins (later)
+
+	Chompy Bird Hats

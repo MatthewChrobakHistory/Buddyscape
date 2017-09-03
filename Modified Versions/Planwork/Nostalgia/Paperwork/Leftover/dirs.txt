@@ -1,0 +1,26 @@
+Select Case GetPlayerDir(Index)
+    Case DIR_DOWN
+        PaperdollOrder(1) = Equipment.Shield
+        PaperdollOrder(2) = Equipment.Legs
+        PaperdollOrder(3) = Equipment.Armor
+        PaperdollOrder(4) = Equipment.Helmet
+        PaperdollOrder(5) = Equipment.Weapon
+    Case DIR_UP
+        PaperdollOrder(1) = Equipment.Weapon
+        PaperdollOrder(2) = Equipment.Legs
+        PaperdollOrder(3) = Equipment.Armor
+        PaperdollOrder(4) = Equipment.Helmet
+        PaperdollOrder(5) = Equipment.Shield
+    Case DIR_LEFT
+        PaperdollOrder(1) = Equipment.Weapon
+        PaperdollOrder(2) = Equipment.Legs
+        PaperdollOrder(3) = Equipment.Armor
+        PaperdollOrder(4) = Equipment.Helmet
+        PaperdollOrder(5) = Equipment.Shield
+    Case DIR_RIGHT
+        PaperdollOrder(1) = Equipment.Shield
+        PaperdollOrder(2) = Equipment.Legs
+        PaperdollOrder(3) = Equipment.Armor
+        PaperdollOrder(4) = Equipment.Helmet
+        PaperdollOrder(5) = Equipment.Weapon
+    End Select

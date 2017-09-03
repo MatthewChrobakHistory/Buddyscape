@@ -1,0 +1,20 @@
+Drudic Ritual
+
+Location: Forrest
+
+	A druid of Guthix needs to make a holy potion. Help him out!
+
+-requires
+	- Fishing XP
+
+
+	The druid needs a stone fish, and water from a holy fountain.
+
+		- Fish StoneFish
+		- Obtain water in a holy vial
+
+	Make the potion at a sacred alter, and give the potion to the druid
+
+REWARDS
+
+	Potion Making XP

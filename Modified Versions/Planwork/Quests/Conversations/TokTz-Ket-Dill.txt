@@ -1,0 +1,27 @@
+TokTz-Ket-Dill
+
+Location: Tzhar City (Under island)
+
+	The Tzharr say that there is a creature threatening their cave system. Find it, and destroy it!
+
+-requires
+	- Combat
+	- Mining XP
+
+	You are told you can either find the cave enterance as you please, or find information in the ancient library.
+
+(OPTIONAL BIT)
+	a book tells of a sealed passage in some part of the cave
+(OPTIONAL BIT)
+
+	Find the enterance and mine through it.
+
+		- Mine through the blocked tunnels and find the TokTz-Ket-Dill
+
+	The Tzhar thank you and reward you.
+
+REWARDS
+
+	- Combat XP
+	- MiningXP
+	- Tokkul

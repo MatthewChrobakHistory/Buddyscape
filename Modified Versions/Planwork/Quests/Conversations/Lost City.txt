@@ -1,0 +1,24 @@
+Lost City
+
+Location: Planes
+
+	A bunch of warriors say they found the lost City! Can you get them to teach you how to find it?
+
+-requires
+	- Crafting XP
+	- Combat XP
+
+	The warriors tell you to go to Entranna and make a Draven Staff.
+	
+	- Go to Entranna
+	- Find Tree
+	- Ghast Appears
+	- Kill Ghast
+	- Cut Tree
+	- Make staff
+
+	You learn a spell that lets you teleport to the Lost City. Well done!
+
+REWARDS
+
+	- Crafting XP

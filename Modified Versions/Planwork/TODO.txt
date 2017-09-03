@@ -1,0 +1,63 @@
+Program in a two handed stance which is a standing stance.
+
+Map Home
+Map Wild
+Map Forest
+Map Docks
+Map Mountains
+Map Planes
+Map Desert
+Map Desert Town
+Map Desert Dock
+
+Warriors Guild
+Pest Control
+Dungeoneering
+GodWars(ZAMORAK: Imp, Icefiend, pyrefiend, vampyre, bloodveld, werewolf, spiritual warrior, spiritual ranger, spiritual mage, hellhound SARADOMIN: Knight of Saradomin, Saradomin priest, Spiritual warrior, spiritual mage, spiritual ranger ARMADYL: Aviansie, spiritual warrior, spiritual mage, spiritual ranger BANDOS: Goblin, Orgre, Hobgoblin, Cyclops, Ork, Spiritual warrior, Spiritual mage, spiritual ranger ZAROS: Blood Reaver, ancient mage, ranger, warrior)
+Fight Caves
+Fight Kiln
+Tormented Demons
+Corp
+KBD
+Chaos Elemental
+Kalaphite Queen
+Slayer
+Barrows
+Clue Scrolls
+Dom tower
+Special Attacks
+
+DUNGEONS TO ADD
+Brimhaven (Moss Giant, Fire Giant, Dogs, Bronze dragon, steel dragon, iron dragon, black demon, baby red dragon, greater demon, red dragon)
+Taverly (Dwarf, Chaos Druid, Ghost, Suit of Armor, Poison Scorpion, Skeleton, Giant Bat, Hill Giant, Black Knight, Magic Axe, Monk of Zamorak, Baby blue dragon, chaos dwarf, poison spider, lesser demon, blue dragon, hellhound, black demon, black dragon)
+Slayer Tower (Crawling Hands, Banshees, Infernal Mages, Bloodveld, Aberrant Spectres, Gargoyles, Nechryael, Abyssal Demons)
+Kuradal's Dungeon (Gargoyles, Abyssal Demons, Dark Beasts, Blue Dragons, Steel Dragons, Iron Dragons, Greater Demons, Hellhounds)
+Fremennik Slayer Dungeon( Cave Crawlers, Rock Slugs, Cockatrice, Pyrefiends, Basilisks, Jellies, Turoth, Kurask, Aquanites)
+
+Abandond floors (decor is greenish-grey)
+Furnished floors(decor is grey)
+Occult floors(decor is purple)
+Warped floors(decor is crimson read with bloodred cracks on the floors and walls)
+
+Make Bronze Paperdolls
+Make Iron Paperdolls
+Make Steel Paperdolls
+Make Black Paperdolls
+Make White Paperdolls
+Make Mithril Paperdolls
+Make Adamant Paperdolls
+Make Rune Paperdolls
+Make Dragon Paperdolls
+Make Void Paperdolls
+Make Leather Paperdolls
+Make HardLeather Paperdolls
+Make Snakeskin Paperdolls
+Make Yakhide Paperdolls
+Make Green D'Hide paperdolls
+Make Blue D'Hide Paperdolls
+Make Red D'Hide Paperdolls
+Make Black D'Hide Paperdolls
+Make Bows paperdoll
+Make crossbow paperdoll
+Make Wizard Robes Paperdolls
+Make Imphide Paperdolls

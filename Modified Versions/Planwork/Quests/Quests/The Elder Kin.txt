@@ -1,0 +1,21 @@
+The Elder Kin
+
+Location: Tzhar City (under island)
+
+	The Tzharr are testing the warriors of their city.
+
+-requires
+	- Combat XP
+
+	There is a new "boss" in town, and he's challenging all life forms to a test of endurance. Only those who beat TzTok-Jad may face him.
+
+	- Give Firecape to the Challenger. He will let you go into the caves now. To make sure you weren't lucky in the fight caves, you are given a smaller test.
+
+		- Endure through all seven waves and you finish the quest
+
+	The Tzhar find you worthy enough to face the Elder Kin.
+
+REWARDS
+
+	- Combat XP
+	- Tokkul

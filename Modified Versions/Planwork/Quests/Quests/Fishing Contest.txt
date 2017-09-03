@@ -1,0 +1,18 @@
+Fishing Contest
+
+Location: Planes
+
+	At the pond in the fishing guild, there is a legendary fish that lurks in the bottom. Can you catch it for the dwarves so they may let you use their mine?
+
+-requires
+	- Fishing XP
+
+	Go to the fishing guild and keep fishing.
+
+	- Get Big Fish
+
+	The dwarves thank you and allow you access to their mine.
+
+REWARDS
+
+	- Fishing XP

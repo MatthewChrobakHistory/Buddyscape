@@ -1,0 +1,25 @@
+Dwarf Cannon
+
+Location: Mountains
+
+	A dwarf asks you if you wish to aid them in their attack against the goblins by creating a dwarven cannon
+
+-requires
+	- Smithing XP
+	- Mining XP
+	- Crafting XP
+
+
+	The dwarves need steel bars to make the seperate parts of the cannon. You also need to make the molds to forge the pieces.
+
+		- Mine Clay -> Make Dwarven Cannon Molds
+		- Make steel bars
+		- Make cannon pieces with the parts
+		- Bring the cannon pieces to dwarven outpost
+
+	The dwarves thank you and give you a golden pickaxe in exchange.
+
+REWARDS
+
+	- SmithingXP
+	- Golden Pickaxe
